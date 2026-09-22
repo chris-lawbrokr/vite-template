@@ -1,0 +1,2 @@
+minimumReleaseAgeExclude:
+  - '@oxlint/binding-linux-x64-musl@1.85.0'
